@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pradss16
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python
